@@ -2,7 +2,7 @@
 ### 写在前面，建议使用Xcode9.2版本。其他版本可能会有swift语法问题。
 ### 本着开源的精神。希望大家不要用做其他目的。
 ### 参考链接 <https://github.com/JonyFang/Potatso>
-### 参考链接 <https://github.com/haxpor/Potatso>
+### 参考链接 <https://github.com/haxpor/Potatso> https://tlanyan.me/build-your-ios-vpn-client/
 ### 运行报错issues参考链接<https://github.com/haxpor/Potatso/issues/41>
 ### 修改下自己的appgroup的id（这一步很重要）
 
